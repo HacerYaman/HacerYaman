@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Android Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-pink-three-24.vercel.app/api?username=HacerYaman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats-pink-three-24.vercel.app/?user=HacerYaman&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HacerYaman&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-pink-three-24.vercel.app/api/top-langs/?username=HacerYaman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Tech Stack:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)
